@@ -39,7 +39,10 @@
   text-align: center;
   border: 2px solid var(--purple-500);
 }
-
+.radio:checked + label {
+  text-decoration-line: line-through;
+  color: var(--gray-300);
+}
 .tasks label {
   font-size: 14px;
   line-height: 140%;
