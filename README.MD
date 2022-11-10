@@ -35,6 +35,9 @@ To-do list style task control application, which contains the following function
 
 ![video](./src/assets/video.gif)
 
+Access this layout in [Figma](https://www.figma.com/file/TObYY3xA2br5GrNFthDgFt/ToDo-List-(Copy)?node-id=0%3A1).
+
+
 <a id="technologies"></a><br>
 
 ## ⚒️ Technologies Used
@@ -42,6 +45,8 @@ To-do list style task control application, which contains the following function
 - React.js
 - TypeScript
 - CSS modules
+- HTML5
+- CSS3
 
 <a id="run"></a><br>
 
